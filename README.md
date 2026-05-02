@@ -67,6 +67,10 @@ SkillNyx is built around the following principles:
 
 ## 4. High-Level Platform Architecture
 
+![SkillNyx Platform Overview](skillnyx-platform-overview.png)
+
+*Conceptual overview of the SkillNyx skill-first learning, coding, AI, and talent intelligence ecosystem.*
+
 ```text
 +-------------------------------------------------------------+
 |                         SkillNyx Users                      |
