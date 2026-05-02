@@ -1,0 +1,19 @@
+{
+  "userId": "sample-user-001",
+  "track": "Python Foundations",
+  "skillScore": 82,
+  "trustScore": 76,
+  "assessmentScore": 84,
+  "codingScore": 79,
+  "learningProgress": 91,
+  "strengths": [
+    "Python basics",
+    "Control flow",
+    "Problem solving"
+  ],
+  "improvementAreas": [
+    "File handling",
+    "Error handling"
+  ],
+  "recommendation": "Continue with intermediate Python coding labs and complete two file-handling challenges."
+}
