@@ -1,0 +1,29 @@
+{
+  "id": "sum-two-numbers",
+  "title": "Sum Two Numbers",
+  "category": "Arithmetic",
+  "difficulty": "Easy",
+  "language": "python",
+  "summary": "Add two integers.",
+  "prompt": "Read two integers and print their sum.",
+  "inputFormat": "a b",
+  "outputFormat": "Single integer",
+  "hints": [
+    "Parse two integers from stdin.",
+    "Use the + operator."
+  ],
+  "tests": [
+    {
+      "id": "t1",
+      "name": "Public Test 1",
+      "input": "2 3",
+      "expectedOutput": "5"
+    },
+    {
+      "id": "t2",
+      "name": "Public Test 2",
+      "input": "10 -2",
+      "expectedOutput": "8"
+    }
+  ]
+}
